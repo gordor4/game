@@ -1,0 +1,5 @@
+Proto Cemetery Set Change Log
+
+v.01 - fixed flipped normals on coffin, fixed default material on candles on dungeon entrance
+v.02 - fixed cauldron pivot origin
+v.03 - added deco skeleton
